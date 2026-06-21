@@ -2,6 +2,15 @@
 
 [English](#english) | [Español](#español)
 
+
+## Technical Specifications / Especificaciones Técnicas 
+Density / Densidad: 1.24 g/cm³  
+Tensile Strength / Resistencia a la tracción: ≥ 76 MPa   
+Flexural Modulus / Módulo de flexión: 4,980 MPa 
+Heat Deflection Temperature (HDT): 153 °C a 0.45 MPa 
+
+For a deep scientific analysis regarding this filament's properties and patent search, check the full Technical Datasheet PDF included in this repository
+
 ---
 
 ## English
