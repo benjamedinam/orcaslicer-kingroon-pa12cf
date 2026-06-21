@@ -83,4 +83,7 @@ El Nylon (PA12) es un material altamente higroscópico (absorbe humedad del aire
 ## 🤝 Contributions / Contribuciones
 If you test this profile with 0.6 mm nozzles or find optimizations for higher speed settings, feel free to open a *Pull Request* or submit an *Issue*!
 
+## 📝 Acknowledgments / Agradecimientos
+Special thanks to **Dr. Florencia Renteria del Toro** for compiling and verifying the technical datasheet and patent research metadata for this material.
+
 Si realizas pruebas con boquillas de 0.6 mm o encuentras mejoras en las velocidades de impresión para este filamento en específico, ¡siéntete libre de abrir un *Pull Request* o reportar un *Issue*!
