@@ -3,14 +3,15 @@
 [English](#english) | [Español](#español)
 
 
-## Technical Specifications / Especificaciones Técnicas 
-Density / Densidad: 1.24 g/cm³  
-Tensile Strength / Resistencia a la tracción: ≥ 76 MPa   
-Flexural Modulus / Módulo de flexión: 4,980 MPa 
-Heat Deflection Temperature (HDT): 153 °C a 0.45 MPa 
+## 📊 Technical Specifications / Especificaciones Técnicas
 
-For a deep scientific analysis regarding this filament's properties and patent search, check the full Technical Datasheet PDF included in this repository
-
+| Property / Propiedad | Value / Valor | Standard / Norma |
+| :--- | :--- | :--- |
+| **Density / Densidad** | 1.24 g/cm³ | Official Datasheet |
+| **Tensile Strength / Resistencia a la tracción** | ≥ 76 MPa | Official Datasheet |
+| **Flexural Strength / Resistencia a la flexión** | 123 MPa | Official Datasheet |
+| **Flexural Modulus / Módulo de flexión** | 4,980 MPa | Official Datasheet |
+| **Heat Deflection Temp (HDT) / Distorsión Térmica** | 153 °C (0.45 MPa) | Official Datasheet |
 ---
 
 ## English
@@ -83,7 +84,13 @@ El Nylon (PA12) es un material altamente higroscópico (absorbe humedad del aire
 ## 🤝 Contributions / Contribuciones
 If you test this profile with 0.6 mm nozzles or find optimizations for higher speed settings, feel free to open a *Pull Request* or submit an *Issue*!
 
+--
 ## 📝 Acknowledgments / Agradecimientos
-Special thanks to **Dr. Florencia Renteria del Toro** for compiling and verifying the technical datasheet and patent research metadata for this material.
+
+* **English:** Special thanks to **Dr. Florencia Renteria del Toro** ([@florenciaren](https://github.com/florenciaren)) for compiling and verifying the technical datasheet and patent research metadata used to complement this repository.
+* **Español:** Un agradecimiento especial a la **Dra. Florencia Renteria del Toro** ([@florenciaren](https://github.com/florenciaren)) por compilar y verificar la ficha técnica y los metadatos de investigación de patentes que complementan este repositorio.
+
+* **Slicer:** Formatted and optimized for [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer).
+* **Filament:** Calibrated specifically for the official [Kingroon PA12-CF Nylon Black](https://www.mercadolibre.com.mx/filamento-3d-nylon-fibra-de-carbono-pa12-cf-negro-para-impresora-175mm-1kg/p/MLM46148662) available on Mercado Libre.
 
 Si realizas pruebas con boquillas de 0.6 mm o encuentras mejoras en las velocidades de impresión para este filamento en específico, ¡siéntete libre de abrir un *Pull Request* o reportar un *Issue*!
